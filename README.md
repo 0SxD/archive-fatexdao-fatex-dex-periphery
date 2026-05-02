@@ -1,5 +1,7 @@
 # Uniswap V2
 
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 [![Actions Status](https://github.com/VenomProtocol/venomswap-periphery/workflows/CI/badge.svg)](https://github.com/VenomProtocol/venomswap-periphery/actions)
 [![npm](https://img.shields.io/npm/v/@venomswap/periphery?style=flat-square)](https://npmjs.com/package/@venomswap/periphery)
 
